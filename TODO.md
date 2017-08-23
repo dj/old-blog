@@ -5,4 +5,3 @@
 - commit changes to fork
 - set up forrestry
 - figure out where to deploy site
-- point hartman.dj at djhartman.com

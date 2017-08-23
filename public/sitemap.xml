@@ -3,53 +3,53 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://example.org/les-mis%C3%A9rables-by-victor-hugo/</loc>
+    <loc>http://localhost/les-mis%C3%A9rables-by-victor-hugo/</loc>
     <lastmod>2015-12-21T04:05:25-06:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/metamorphosis-by-franz-kafka/</loc>
+    <loc>http://localhost/metamorphosis-by-franz-kafka/</loc>
     <lastmod>2015-12-21T04:03:46-06:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/use-at-instead-of-head/</loc>
+    <loc>http://localhost/use-at-instead-of-head/</loc>
     <lastmod>2015-08-25T17:09:14-05:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/about/</loc>
+    <loc>http://localhost/about/</loc>
     <lastmod>2015-08-22T06:42:21-07:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/blog/</loc>
+    <loc>http://localhost/blog/</loc>
     <lastmod>2015-08-22T06:42:21-07:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/about/colophon/</loc>
+    <loc>http://localhost/about/colophon/</loc>
     <lastmod>2015-08-22T06:28:26-07:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/code/</loc>
+    <loc>http://localhost/code/</loc>
     <lastmod>2015-08-19T20:29:37-07:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/categories/</loc>
+    <loc>http://localhost/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/</loc>
+    <loc>http://localhost/</loc>
     <lastmod>2015-12-21T04:05:25-06:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/tags/</loc>
+    <loc>http://localhost/tags/</loc>
     <priority>0</priority>
   </url>
   

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>About on Daniel Jay Hartman</title>
-    <link>http://example.org/about/</link>
+    <link>http://localhost/about/</link>
     <description>Recent content in About on Daniel Jay Hartman</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 22 Aug 2015 06:42:21 -0700</lastBuildDate>
     
-	<atom:link href="http://example.org/about/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://localhost/about/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>colophon</title>
-      <link>http://example.org/about/colophon/</link>
+      <link>http://localhost/about/colophon/</link>
       <pubDate>Sat, 22 Aug 2015 06:28:26 -0700</pubDate>
       
-      <guid>http://example.org/about/colophon/</guid>
+      <guid>http://localhost/about/colophon/</guid>
       <description>This website is a personal homepage.
 The site is built with Hugo—a static site generator made with Go. The website source code is available on GitHub. It uses the cocoa theme. The posts are written in Markdown.
 The primary font face is Open Sans and the monospace font face is Ubuntu Mono. The social icons are from the Ionicons font set. CSS classes for code syntax highlighting are inserted during compile-time by Hugo using Pygments.</description>
