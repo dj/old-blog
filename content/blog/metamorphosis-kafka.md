@@ -1,10 +1,9 @@
 +++
 date = "2015-12-21T04:03:46-06:00"
-draft = false
+draft = true
 title = "Metamorphosis by Franz Kafka"
 
 +++
-
 ### Part One
 
 One morning, when *Gregor Samsa* woke from troubled dreams, he [found](./) himself transformed in his bed into a horrible vermin. 
