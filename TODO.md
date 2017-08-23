@@ -1,0 +1,8 @@
+- import all old content
+- change avatar to use gravatar
+- change favicon
+- fix social links
+- commit changes to fork
+- set up forrestry
+- figure out where to deploy site
+- point hartman.dj at djhartman.com
