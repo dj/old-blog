@@ -1,0 +1,3 @@
+[submodule "cocoa"]
+  path = themes/cocoa
+  url = https://github.com/dj/cocoa-hugo-theme
