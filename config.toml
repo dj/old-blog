@@ -1,5 +1,5 @@
 author = "Daniel Jay Hartman"
-baseURL = "http://localhost"
+baseURL = "https://www.djhartman.com/"
 builddrafts = false
 canonifyurls = true
 contentdir = "content"
