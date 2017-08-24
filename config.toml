@@ -9,7 +9,7 @@ layoutdir = "layouts"
 pluralizelisttitles = false
 publishdir = "public"
 pygmentsuseclasses = true
-theme = "cocoa"
+# theme = "cocoa"
 title = "Daniel Jay Hartman"
 [[menu.main]]
 identifier = "code"
