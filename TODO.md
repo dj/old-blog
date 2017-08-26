@@ -1,7 +1,7 @@
-- import all old content
-- change avatar to use gravatar
-- change favicon
-- fix social links
-- commit changes to fork
-- set up forrestry
-- figure out where to deploy site
+[x] import all old content
+[x] set up netlify cms
+[x] host on netlify
+[ ] change avatar to use gravatar
+[ ] change favicon
+[ ] fix social links
+[ ] commit changes to fork
