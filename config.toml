@@ -18,7 +18,7 @@ url = "https://github.com/dj"
 weight = -100
 [[menu.main]]
 identifier = "about"
-name = "About"
+name = "About Me"
 url = "/about/"
 weight = -110
 [params]
@@ -37,10 +37,10 @@ github = "//github.com/you"
 highlightjs = true
 i18n_flags = false
 initials = "ad"
-instagram = "//instagram.com/you"
+# instagram = "//instagram.com/you"
 lang = "en"
 latestpostscount = 5
-linkedin = "//linkedin.com/in/you"
+# linkedin = "//linkedin.com/in/you"
 noshowreadtime = false
 piwik = false
 selfintro = "Just a boy and his blog."
