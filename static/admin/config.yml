@@ -15,5 +15,5 @@ collections:
     slug: "{{slug}}"
     fields:
     - {label: "Date", name: "date", widget: "datetime"}
-    - {label: "Title", widget: "string"}
+    - {label: "Title", name: "title", widget: "string"}
     - {label: "Body", name: "body", widget: "markdown"}
