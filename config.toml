@@ -23,7 +23,8 @@ url = "/about/"
 weight = -110
 [params]
 author = "Daniel Jay Hartman"
-avatar = "/uploads/2017/08/23/circle-avatar.png"
+# avatar = "/uploads/2017/08/23/circle-avatar.png"
+gravatar = "8676179396609ff0a32cbda439a3a0d9"
 cachebuster = true
 dateform = "Jan 2, 2006"
 dateformfull = "Mon Jan 2 2006 15:04:05 MST"
