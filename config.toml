@@ -14,7 +14,7 @@ title = "Daniel Jay Hartman"
 [[menu.main]]
 identifier = "code"
 name = "GitHub"
-url = "/code/"
+url = "https://github.com/dj"
 weight = -100
 [[menu.main]]
 identifier = "about"
