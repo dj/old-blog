@@ -1,6 +1,6 @@
 ---
 date: 2016-08-14T04:00:07.000Z
-title: "Bye, Twitter \uD83D\uDC4B"
+title: 'Bye, Twitter'
 ---
 A couple months ago, I removed Twitter from my phone and stopped checking the site, for the most part. I'm not looking for applause, just looking to share some thoughts I've had since then.
 
@@ -16,3 +16,4 @@ I'm [waiting for Twitter to email me my archive](https://blog.twitter.com/2012/y
 When [Pokémon Go came out and looked like it was about to pass Twitter in daily active users](https://192.241.151.94/bye-twitter/), it made Twitter seem smaller and more insular than ever. I see parallels between the way because pundits talk about Pokémon Go and Twitter now as if they have["taken over the world,"](http://www.chicagotribune.com/entertainment/theater/ct-pokemon-go-gps-jones-ae-0717-20160714-column.html)when their real demographics are much not "universal" but affluent, urban, American, and white.
 
 For now, I'm going back to RSS and hoping that something better eventually comes along. I have no idea what that may look like, but I wonder if it's already being built.
+
