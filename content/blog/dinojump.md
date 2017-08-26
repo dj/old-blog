@@ -4,6 +4,8 @@ title: Dinojump
 ---
 I got the urge to code a game recently, so I made a simple clone of[Dino Runner](https://chromedino.com/), the hidden game on the page that Chrome shows you if it’s unable to connect to the internet.
 
+The [repository is here](https://github.com/dj/dinojump), if you want to check out the code or run it by downloading the Love application for your operating system.
+
 ## Picking Lua and LÖVE {#pickingluaandlve}
 
 I don’t know much about game development, but I felt like I wanted something high level and portable. I wanted to learn a new language, because most of the "web" languages I'm familiar with \(JavaScript, Java, Python, Ruby\) aren’t used much in game development \(besides sometimes JavaScript, but usually as a compile target\).
@@ -19,7 +21,5 @@ Lua is a small, simple and fast language with a nice syntax. Spending most of my
 ## Finishing for the sake of it {#finishingforthesakeofit}
 
 I’m trying to get better at finishing projects that I start and putting them on the internet instead of letting them sit in my dev folder for years until I delete it years later because there’s no way I’m sharing that silly project I never finished from years ago.
-
-If you’re on OSX, you can download the game here \([https:\/\/hartman.dj\/files\/DinoJump\_osx.zip](https://hartman.dj/files/DinoJump_osx.zip)\). I doubt anyone will play this so I didn’t bother to figure out Linux or Windows binaries. The[repository is here](https://github.com/dj/dinojump), if you want to check out the code or run it by downloading the Love application for your operating system.
 
 
