@@ -1,5 +1,5 @@
 ---
-date: 2017-03-17T00:00:37-04:00
+date: 2017-03-17T04:00:37.000Z
 title: Dinojump
 ---
 I got the urge to code a game recently, so I made a simple clone of[Dino Runner](https://chromedino.com/), the hidden game on the page that Chrome shows you if it’s unable to connect to the internet.
@@ -21,6 +21,7 @@ Lua is a small, simple and fast language with a nice syntax. Spending most of my
 ## Finishing for the sake of it {#finishingforthesakeofit}
 
 I’m trying to get better at finishing projects that I start and putting them on the internet instead of letting them sit in my dev folder for years until I delete it years later because there’s no way I’m sharing that silly project I never finished from years ago.
+
 
 
 
