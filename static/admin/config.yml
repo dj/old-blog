@@ -1,0 +1,18 @@
+backend:
+  name: github
+  repo: dj/djhartman.com
+  branch: master
+
+publish_mode: editorial_workflow
+media_folder: "static/images/uploads"
+public_folder: "/images/uploads"
+
+collections:
+  - name: "blog"
+    label: "Blog"
+    folder: "content/blog"
+    create: true
+    slug: "{{slug}}"
+    fields:
+    - {label: "Date", name: "date", widget: "datetime"}
+    - {label: "Title", widget: "string"}
