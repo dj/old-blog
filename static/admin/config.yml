@@ -16,3 +16,4 @@ collections:
     fields:
     - {label: "Date", name: "date", widget: "datetime"}
     - {label: "Title", widget: "string"}
+    - {label: "Body", name: "body", widget: "markdown"}
