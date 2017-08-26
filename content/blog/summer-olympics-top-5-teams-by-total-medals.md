@@ -8,3 +8,4 @@ I've been using [d3](http://www.d3js.org/) a lot this semester. This is the fi
 
 If you know d3 and you want to publish a block, read Mike Bostock's [Let's Make A Block](http://bost.ocks.org/mike/block/). If you're getting started and having trouble with Enter/Exit/Update, [Thinking With Joins](http://bost.ocks.org/mike/join/) is a good starting point.
 
+
