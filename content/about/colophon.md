@@ -9,7 +9,7 @@ aliases = [
 
 +++
 
-This site is built with <a target="_blank" rel="noopener" href="//gohugo.io">Hugo</a>, a static site generator. It uses my fork of the [cocoa theme by @nishanth]("//github.com/nishanths/cocoa-hugo-theme"). The [source code](https://github.com/dj/djhartman.com) is available on my GitHub.
+This site is built with <a target="_blank" rel="noopener" href="//gohugo.io">Hugo</a>, a static site generator. It uses my fork of the [cocoa theme by @nishanth](//github.com/nishanths/cocoa-hugo-theme). The [source code](https://github.com/dj/djhartman.com) is available on my GitHub.
 
 The primary font face is Open Sans and the monospace font face is Ubuntu Mono. The icons are from [Ionicons](http://ionicons.com/). CSS classes for code syntax highlighting are inserted during compile-time by Hugo using Pygments.
 
