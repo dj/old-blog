@@ -8,7 +8,7 @@ title = "About"
 If you'd like to send me an email, [please confirm you’re not a bot](http://www.google.com/recaptcha/mailhide/d?k=01MaPe-rBh1MGHkKKy-xUxmQ%3Cmark%3E&c=LEgN0PDIjN1X4UVYLlXS1g%3C/mark%3E).
 
 ## Work
-Most recently, I was a software developer at MIT Technology Review, where I helped rebuild their frontend and modernize engineering practices. I'm currently looking for opportunities in the greater Boston and Seattle areas, either doing front end or full stack web development. I'm open to both full-time and part time positions, colocated or remote.
+Most recently, I was a software developer at MIT Technology Review, where I helped rebuild their front end and modernize engineering practices. I'm currently looking for opportunities in the greater Boston and Seattle areas, either doing front end or full stack web development. I'm open to both full-time and part time positions, colocated or remote.
 
 ## About Me
 My name is Daniel Jay Hartman. I live in the lovely City of Somerville, MA.
