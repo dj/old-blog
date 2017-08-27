@@ -43,6 +43,6 @@ latestpostscount = 5
 # linkedin = "//linkedin.com/in/you"
 noshowreadtime = false
 piwik = false
-selfintro = "Just a boy and his blog."
+selfintro = "Just a boy and his blog. Software engineer."
 [permalinks]
 blog = "/:slug/"
