@@ -12,13 +12,13 @@ pygmentsuseclasses = true
 theme = "cocoa"
 title = "Daniel Jay Hartman"
 [[menu.main]]
-identifier = "code"
-name = "GitHub"
-url = "https://github.com/dj"
+identifier = "contact"
+name = "Contact"
+url = "/contact/"
 weight = -100
 [[menu.main]]
 identifier = "about"
-name = "About Me"
+name = "About"
 url = "/about/"
 weight = -110
 [params]
