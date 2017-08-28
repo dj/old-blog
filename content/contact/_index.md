@@ -4,17 +4,23 @@ draft = false
 title = "Contact"
 
 +++
+
 <form name="contact" action="thank-you" netlify>
-  <p>
-    <label>Your Name: <input type="text" name="name"></label>   
-  </p>
-  <p>
-    <label>Your Email: <input type="email" name="email"></label>
-  </p>
-  <p>
-    <label>Message: <textarea name="message"></textarea></label>
-  </p>
-  <p>
-    <button type="submit">Send</button>
-  </p>
+	<fielset>
+		<label>Your Name: <input type="text" name="name"></label>   
+	</fielset>
+	<fielset>
+		<label>Your Email: <input type="email" name="email"></label>
+	</fielset>
+	<fielset>
+		<label>Message: <textarea name="message"></textarea></label>
+	</fielset>
+    <button type="submit">Submit</button>
 </form>
+
+<style>
+	fielset, input, textarea {
+		width: 100%;
+		display: block;
+	}
+</style>
