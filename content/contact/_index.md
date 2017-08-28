@@ -5,22 +5,25 @@ title = "Contact"
 
 +++
 
+<style>
+</style>
+
+Want to work together?<br/>
+Found an error on the website?<br/>
+Send me a message.<br/>
+
 <form name="contact" action="thank-you" netlify>
-	<fielset>
-		<label>Your Name: <input type="text" name="name"></label>   
-	</fielset>
-	<fielset>
-		<label>Your Email: <input type="email" name="email"></label>
-	</fielset>
-	<fielset>
-		<label>Message: <textarea name="message"></textarea></label>
-	</fielset>
+	<fieldset>
+		<label>Your name</label>   
+		<input type="text" name="name">	
+	</fieldset>
+	<fieldset>
+		<label>Your email</label>
+		<input type="email" name="email">	
+	</fieldset>
+	<fieldset>
+		<label>Your message</label>
+		<textarea name="message"></textarea>	
+	</fieldset>
     <button type="submit">Submit</button>
 </form>
-
-<style>
-	fielset, input, textarea {
-		width: 100%;
-		display: block;
-	}
-</style>
