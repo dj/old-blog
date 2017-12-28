@@ -14,9 +14,9 @@ Well, my fears have come true. After using Tree Style Tabs I'm not sure I could 
 
 ![Screenshot of Firefox 57 with default UI and Tree Style Tabs](/images/uploads/Screen Shot 2017-12-27 at 2.09.45 PM.png)
 
-This is what Tree Style Tabs looks like without any customization. Ideally, we should be able to hide the horizontal Tabs Toolbar on top either in Firefox's options or the Tree Style Tabs options. Mozilla has said that they want to [provide a robust Tab API](https://blog.mozilla.org/addons/2017/11/03/keeping-tabs-tab-api/). I'll probably come back and update this blog post when this is possible without `userChrome.css` but maybe check [this ticket](https://blog.mozilla.org/addons/2017/11/03/keeping-tabs-tab-api/) to see if it's been resolved.
+This is what Tree Style Tabs looks like without any customization. Ideally, we should be able to hide this through the WebExtension API, but it's not possible at the time of writing. You can check [this ticket](https://blog.mozilla.org/addons/2017/11/03/keeping-tabs-tab-api/) to see if it's been added yet.
 
-In the meantime, we can add a file to our Firefox profile to customize Firefox with css.
+In the meantime, we can add a `userChrome.css` file to our Firefox profile to customize Firefox with css.
 
 1. Download [Firefox 57](https://www.mozilla.org/en-US/firefox/new/)
 2. Install [Tree Style Tabs](https://addons.mozilla.org/en-US/firefox/addon/tree-style-tab/)
@@ -26,4 +26,5 @@ In the meantime, we can add a file to our Firefox profile to customize Firefox w
 
 <script src="https://gist.github.com/dj/2ab3aa20fa1076d4e28dfcc6d1e519c3.js"></script>
 
-Viola! Restart Firefox and you should have a beautiful, Tab Toolbar-free UI.
+Voila! Restart Firefox and you should have a beautiful, Tab Toolbar-free UI.
+
