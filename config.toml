@@ -17,10 +17,15 @@ name = "Contact"
 url = "/contact/"
 weight = -100
 [[menu.main]]
+identifier = "blog"
+name = "Blog"
+url = "/blog/"
+weight = -110
+[[menu.main]]
 identifier = "about"
 name = "About"
 url = "/about/"
-weight = -110
+weight = -120
 [params]
 author = "Daniel Jay Hartman"
 # avatar = "/uploads/2017/08/23/circle-avatar.png"
@@ -28,12 +33,12 @@ gravatar = "8676179396609ff0a32cbda439a3a0d9"
 cachebuster = true
 dateform = "Jan 2, 2006"
 dateformfull = "Mon Jan 2 2006 15:04:05 MST"
-description = "Don't panic"
+description = "Software development blog."
 # email = "you@example.space"
 extracssfiles = ["/css/override.css"]
 # faviconfile = "img/leaf.ico"
 gatracker = "XYZ"
-github = "//github.com/dj"
+github = "https://github.com/dj"
 highlightjs = true
 i18n_flags = false
 initials = "DJH"
@@ -43,6 +48,6 @@ latestpostscount = 5
 linkedin = "https://www.linkedin.com/in/daniel-hartman-5966a35a"
 noshowreadtime = false
 piwik = false
-selfintro = "Just a boy and his blog. Software engineer."
+selfintro = "Software Engineer"
 [permalinks]
 blog = "/:slug/"

@@ -1,3 +1,7 @@
 - [ ] change favicon
-- [ ] change homepage to use https://html5up.net/uploads/demos/identity/
-- [ ] change current homepage to be new blog index
+- [x] change current homepage to be new blog index
+- [ ] new homepage based on https://html5up.net/uploads/demos/identity/
+    - [ ] typography
+    - [ ] basic profile card layout
+    - [ ] add all the icons and links
+    - [ ] loading animation
