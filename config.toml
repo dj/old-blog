@@ -13,19 +13,34 @@ theme = "cocoa"
 title = "Daniel Jay Hartman"
 [[menu.main]]
 identifier = "contact"
-name = "Contact"
+name = "Contact <span class='ion-ios-email-outline'></span>"
 url = "/contact/"
 weight = -100
 [[menu.main]]
 identifier = "blog"
-name = "Blog"
+name = "Blog <span class='ion-ios-paper-outline'></span>"
 url = "/blog/"
 weight = -110
 [[menu.main]]
 identifier = "about"
-name = "About"
+name = "About <span class='ion-ios-person-outline'></span>"
 url = "/about/"
 weight = -120
+[[menu.main]]
+identifier = "github"
+name = "Github <span class='ion-social-github-outline'></span>"
+url = "https://www.github.com/dj"
+weight = -100
+[[menu.main]]
+identifier = "twitter"
+name = "Twitter <span class='ion-social-twitter-outline'></span>"
+url = "https://www.twitter.com/_djhartman"
+weight = -80
+[[menu.main]]
+identifier = "linkedin"
+name = "LinkedIn <span class='ion-social-linkedin-outline'></span>"
+url = "https://www.linkedin.com/in/daniel-hartman-5966a35a/"
+weight = -90
 [params]
 author = "Daniel Jay Hartman"
 # avatar = "/uploads/2017/08/23/circle-avatar.png"
