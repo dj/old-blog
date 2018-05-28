@@ -34,7 +34,7 @@ weight = -100
 [[menu.main]]
 identifier = "twitter"
 name = "Twitter <span class='ion-social-twitter-outline'></span>"
-url = "https://www.twitter.com/_djhartman"
+url = "https://www.twitter.com/deej_codes"
 weight = -80
 [[menu.main]]
 identifier = "linkedin"
@@ -42,7 +42,7 @@ name = "LinkedIn <span class='ion-social-linkedin-outline'></span>"
 url = "https://www.linkedin.com/in/daniel-hartman-5966a35a/"
 weight = -90
 [params]
-author = "Daniel Jay Hartman"
+author = "Daniel Hartman"
 # avatar = "/uploads/2017/08/23/circle-avatar.png"
 gravatar = "8676179396609ff0a32cbda439a3a0d9"
 cachebuster = true
